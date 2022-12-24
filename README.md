@@ -1,2 +1,2 @@
-# Javascript-Saat-ve-Kar-lama
+# Javascript-Saat-ve-Karsilama
 Js 1.ödev
